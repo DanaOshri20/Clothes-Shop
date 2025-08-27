@@ -62,7 +62,10 @@ FinalProject/
 - Unix/Mac shell (for `.sh` scripts)
 
 ## Authors
-- [Your Name Here]
+Dana Oshri
+Lihi Kimhazi
+Noa Gerbi
+Ron Gershtein
 
 ---
 *For more details, see the full documentation or contact the project maintainer.*

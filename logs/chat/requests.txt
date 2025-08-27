@@ -1,0 +1,4 @@
+timestamp,request_id,requester,requester_branch,target_branch,event_type,details
+2025-08-27 20:42:27,10032036,test,HOLON,TEL_AVIV,ACCEPTED,Accepted by dana (TEL_AVIV)
+2025-08-28 00:03:48,f616dbb9,nissim,TEL_AVIV,HOLON,ACCEPTED,Accepted by test (HOLON)
+2025-08-28 00:05:55,d7e8a346,nissim,TEL_AVIV,N/A,CANCELLED,Request cancelled

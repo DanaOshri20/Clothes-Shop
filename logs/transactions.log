@@ -1,0 +1,16 @@
+Aug 27, 2025 7:38:36 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=TEL_AVIV, ID=1001, Category=JEANS, Quantity=1, Price=149.90
+Aug 27, 2025 7:38:51 PM server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_ORDERED: Branch=TEL_AVIV, ID=1001, Category=JEANS, Quantity=1, Price=149.90
+Aug 27, 2025 7:39:22 PM server.domain.invantory.InventoryService addNewProduct
+INFO: PRODUCT_ADDED: Branch=TEL_AVIV, ID=3002, Category=Gloves, Quantity=10, Price=9.90
+Aug 27, 2025 7:39:43 PM server.domain.invantory.InventoryService removeProduct
+INFO: PRODUCT_REMOVED: Branch=TEL_AVIV, ID=3002, Category=Gloves, Quantity=10, Price=9.90
+אוג׳ 27, 2025 11:54:47 אחה״צ server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_SOLD: Branch=TEL_AVIV, ID=1001, Category=JEANS, Quantity=1, Price=149.90
+אוג׳ 27, 2025 11:55:02 אחה״צ server.domain.invantory.InventoryService updateQuantity
+INFO: STOCK_ORDERED: Branch=TEL_AVIV, ID=1001, Category=JEANS, Quantity=1, Price=149.90
+אוג׳ 27, 2025 11:55:33 אחה״צ server.domain.invantory.InventoryService addNewProduct
+INFO: PRODUCT_ADDED: Branch=TEL_AVIV, ID=3002, Category=HAT, Quantity=40, Price=12.90
+אוג׳ 27, 2025 11:55:57 אחה״צ server.domain.invantory.InventoryService removeProduct
+INFO: PRODUCT_REMOVED: Branch=TEL_AVIV, ID=3002, Category=HAT, Quantity=40, Price=12.90

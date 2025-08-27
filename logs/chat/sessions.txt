@@ -1,0 +1,12 @@
+timestamp,username,role,branch,event_type,details
+2025-08-27 20:40:12,SYSTEM,SYSTEM,SYSTEM,SERVER_START,Server started on port 6060
+2025-08-27 20:41:40,test,SALESPERSON,HOLON,CONNECTED,User connected to chat server
+2025-08-27 20:41:59,dana,SHIFT_MANAGER,TEL_AVIV,CONNECTED,User connected to chat server
+2025-08-27 23:59:37,SYSTEM,SYSTEM,SYSTEM,SERVER_START,Server started on port 6060
+2025-08-28 00:01:06,SYSTEM,SYSTEM,SYSTEM,SERVER_START,Server started on port 6060
+2025-08-28 00:02:37,nissim,SALESPERSON,TEL_AVIV,CONNECTED,User connected to chat server
+2025-08-28 00:03:17,test,SALESPERSON,HOLON,CONNECTED,User connected to chat server
+2025-08-28 00:04:12,dana,SHIFT_MANAGER,TEL_AVIV,CONNECTED,User connected to chat server
+2025-08-28 00:05:55,nissim,SALESPERSON,TEL_AVIV,DISCONNECTED,User disconnected from chat server
+2025-08-28 00:05:57,test,SALESPERSON,HOLON,DISCONNECTED,User disconnected from chat server
+2025-08-28 00:05:59,dana,SHIFT_MANAGER,TEL_AVIV,DISCONNECTED,User disconnected from chat server

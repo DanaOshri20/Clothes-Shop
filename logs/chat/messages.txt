@@ -1,0 +1,14 @@
+timestamp,message_id,conversation_id,sender,receiver,message_type,content
+2025-08-27 20:42:30,1,94f78cbd,dana,ALL,CHAT,
+2025-08-27 20:42:49,2,94f78cbd,dana,ALL,CHAT,a
+2025-08-27 20:42:49,3,94f78cbd,dana,ALL,CHAT,a
+2025-08-27 20:42:51,4,94f78cbd,test,ALL,CHAT,d
+2025-08-27 20:42:52,5,94f78cbd,test,ALL,CHAT,d
+2025-08-28 00:04:00,1,c5934442,nissim,ALL,CHAT,hhh
+2025-08-28 00:04:02,2,c5934442,nissim,ALL,CHAT,nmb
+2025-08-28 00:04:05,3,c5934442,test,ALL,CHAT,ghj
+2025-08-28 00:04:07,4,c5934442,test,ALL,CHAT,bnm
+2025-08-28 00:04:37,5,c5934442,dana,ALL,CHAT,ghjkl;
+2025-08-28 00:04:41,6,c5934442,nissim,ALL,CHAT,hm\,
+2025-08-28 00:04:46,7,c5934442,test,ALL,CHAT,ghjk
+2025-08-28 00:04:53,8,c5934442,dana,ALL,CHAT,\end
